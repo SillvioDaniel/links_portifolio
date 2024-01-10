@@ -6,7 +6,7 @@ Aqui estão os links para os respositórios dos meus projetos e links externos.
 |-----------------------------------------------------------------------------------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 |   🇧🇷 [Imposto estados](https://github.com/SillvioDaniel/imposto_estados)            | Python e Tableau | Análise realizada sobre o conjunto de dados de Impostos por unidade<br>federativa disponível no portal de dados abertos do governo. |
 | 🍔 [Menu McDonald's](https://github.com/SillvioDaniel/menu_mcdonalds)              | Python e Tableau | Análise realizada sobre o conjunto de dados dados nutricionais<br>do menu do McDonald's disponível no Kaggle                        |
-| ⚽ [Futebol Internacional](https://github.com/SillvioDaniel/futebol_internacional) | Python e Tableau | Análise realizada sobre o conjunto de dados de partidas de futebol<br>internacional disponível no Kaggl                             |
+| ⚽ [Futebol Internacional](https://github.com/SillvioDaniel/futebol_internacional) | Python e Tableau | Análise realizada sobre o conjunto de dados de partidas de futebol<br>internacional disponível no Kaggle                             |
 
 ## 🔍 SQL
 | LINK                                                                            | FERRAMENTAS | DESCRIÇÃO                                                   |
