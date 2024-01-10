@@ -1,4 +1,4 @@
-## 📑 Meu portifólio
+# 📑 Meu portifólio
 Aqui estão os links para os respositórios dos meus projetos e links externos.
 
 ## 🐍 PYTHON
