@@ -11,5 +11,5 @@ Aqui estão os links para os respositórios dos meus projetos e links externos.
 ## 🔍 SQL
 | LINK                                                                            | FERRAMENTAS | DESCRIÇÃO                                                   |
 |---------------------------------------------------------------------------------|-------------|-------------------------------------------------------------|
-| 🎮 [Era de ouro dos Games](https://github.com/SillvioDaniel/era_ouro_game)       |       SQL   | Projeto SQL do DataCamp sobre a era de ouro dos video games |
+| 🎮 [Era de ouro dos Games](https://github.com/SillvioDaniel/era_ouro_games)       |       SQL   | Projeto SQL do DataCamp sobre a era de ouro dos video games |
 | 🌍 [Débito internacional](https://github.com/SillvioDaniel/debito_internacional) |       SQL   | Projeto SQL do DataCamp sobre dívida internacional          |
